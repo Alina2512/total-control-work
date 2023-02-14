@@ -1,0 +1,15 @@
+/Users/alinamarkovic/GB/totalControlWork/bin/Debug/net7.0/totalControlWork
+/Users/alinamarkovic/GB/totalControlWork/bin/Debug/net7.0/totalControlWork.deps.json
+/Users/alinamarkovic/GB/totalControlWork/bin/Debug/net7.0/totalControlWork.runtimeconfig.json
+/Users/alinamarkovic/GB/totalControlWork/bin/Debug/net7.0/totalControlWork.dll
+/Users/alinamarkovic/GB/totalControlWork/bin/Debug/net7.0/totalControlWork.pdb
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.csproj.AssemblyReference.cache
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.AssemblyInfoInputs.cache
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.AssemblyInfo.cs
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.csproj.CoreCompileInputs.cache
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.dll
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/refint/totalControlWork.dll
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.pdb
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/totalControlWork.genruntimeconfig.cache
+/Users/alinamarkovic/GB/totalControlWork/obj/Debug/net7.0/ref/totalControlWork.dll
