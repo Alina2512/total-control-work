@@ -24,3 +24,9 @@ void ShowArrayShort(string[] array)
     }
     Console.Write("]\n ");
 }
+
+Console.Write("Input a number of elements: ");
+int m = Convert.ToInt32(Console.ReadLine());
+string[] newArray = CreateArray(m);
+ShowArray(newArray);
+ShowArrayShort(newArray);
